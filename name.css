@@ -1,0 +1,71 @@
+.header {
+display: block;
+text-align: center;
+background: #FFD54F;
+background-size: contain;
+height: 200px;
+padding-top:30px;
+width: auto;
+}
+body {
+margin: 0;
+padding: 0;
+}
+.main-content {
+height: auto;
+display: block;
+background: lightyellow;
+background-size: contain;
+padding: 10px;
+}
+.footer {
+display: block;
+text-align: center;
+background: #333333;
+background-size: contain;
+height: auto;
+color: white;
+padding:20px;
+}
+.footer a:link {
+text-decoration: none;
+color: white;
+text-align: center;
+}
+
+.footer a:visited {
+text-decoration: none;
+color: white;
+text-align: center;
+}
+img {
+width: 150px;
+height:auto;
+float:left;
+}
+h3 {
+clear:left;
+}
+.numb {
+border: solid black 1px;
+border-radius:5px;
+}
+.buy {
+background:#0288D1;
+border:none;
+border-radius:5px;
+}
+.header a:link {
+text-decoration: none;
+color: black;
+text-align: center;
+}
+
+.header a:visited {
+text-decoration: none;
+color: black;
+text-align: center;
+}
+#hed-nav {
+font-size: 30px;
+}
